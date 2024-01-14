@@ -1,1 +1,1 @@
-# MyOOP-DBproject
+# MyOOP-DBproject - Horseland stud
