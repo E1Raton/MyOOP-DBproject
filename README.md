@@ -34,6 +34,8 @@ Both student/instructor users are provided with a an option (a button) for retur
 * adding an option (for both instructor and student) which enables them to register their horses
 * allowing students to register in competitions
 * displaying charts which shows the score of each horse, based on the grades given by users
+* adding images for each horse (even for users)
+* application deployment
 
 ## Resources
 * *IntelliJ IDEA* + *JavaFX*: Java code for database management, development of the involved classes - mapped entities (from database), database controllers, scene controllers, .fxml files, utilities classes.
