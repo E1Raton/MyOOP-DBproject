@@ -18,5 +18,6 @@ This window is reachable from the *log in* window (by clicking on *See Reviews* 
 ### 4. Logged in user
 Depending on your account (student/instructor) the app redirects you to a certain *scene* from where you can perform your specific actions.
  * **Student**
+ * 
    The opened window provides you with four options (buttons): *Program Course*, *See my courses*, *Review*, and *Log Out*.
  * **Instructor**
