@@ -9,3 +9,5 @@ An app which allows you to perform the following actions:
   * see all the courses (only for instructors)
 
 ## Application set-up & Requirements
+
+## User manual
