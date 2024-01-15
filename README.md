@@ -28,3 +28,11 @@ The opened window provides you with three options (buttons): *Program Course*, *
 A view of all the courses will appear. You can filter by checking *Show only future courses*. You can sort the courses by: *Instructor*, *Student*, *Horse*, *Date*, and *Hour*. Besides, you can search a course by the name of the instructor: just press some key characters followed by *Enter*. This is useful if you wish to see only your courses, or only the courses of one of your colleagues.
 
 Both student/instructor users are provided with a an option (a button) for returning to the *log in window*.
+
+## Future developments
+* creating an *admin* account for **complete** database management
+* adding an option (for both instructor and student) which enables them to register their horses
+* allowing students to register in competitions
+* displaying charts which shows the score of each horse, based on the grades given by users
+
+## Resources
