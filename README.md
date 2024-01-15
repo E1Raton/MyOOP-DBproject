@@ -13,3 +13,5 @@ An app which allows you to perform the following actions:
 ## User manual
 ### 1. Log in Window
 This is the first window that appears when running the application. It provides a *welcome* message, two annotated fields for typing the credentials (e-mail address and password), the *Log In* button, the *Sign Up* button and the *See Reviews* button. Trying to log in with wrong credentials (i.e. that can't be found in the database will result in an error message, saying *Invalid e-mail or password*.
+### 2. Sign up Window
+Upon pressing the *Sign Up* button, a *sign up* form opens, having four fields: *First Name*, *Last Name*, *e-mail*, *password* and 2 choice boxes: *Student* and *Instructor* (you can select only one). If you press *Sign In* before completing all these fields or before making a choice between student and instructor, a corresponding error message occurs. This also goes for typing an already registered e-mail address.
