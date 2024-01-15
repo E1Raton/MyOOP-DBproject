@@ -1,6 +1,5 @@
 # The Horseland stud
-An app which allows you to perform the following actions:
-  * log in to your account
+An app which allows you to perform the following actions: * log in to your account
   * create an account (in case you don't have) - sign up
   * see reviews of the horses belonging to the stud
   * program a horse riding course (only for students)
@@ -11,3 +10,4 @@ An app which allows you to perform the following actions:
 ## Application set-up & Requirements
 
 ## User manual
+
