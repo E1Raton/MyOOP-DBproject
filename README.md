@@ -11,4 +11,5 @@ An app which allows you to perform the following actions:
 ## Application set-up & Requirements
 
 ## User manual
-
+### 1. Log in Window
+This is the first window that appears when running the application. 
