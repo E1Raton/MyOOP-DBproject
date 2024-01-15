@@ -36,3 +36,6 @@ Both student/instructor users are provided with a an option (a button) for retur
 * displaying charts which shows the score of each horse, based on the grades given by users
 
 ## Resources
+* *IntelliJ IDEA* + *JavaFX*: Java code for database management, development of the involved classes - mapped entities (from database), database controllers, scene controllers, .fxml files, utilities classes.
+* *DBeaver* + *PostgreSQL*: database design
+* *JDBC*: connection to database (between the Java code and the database)
