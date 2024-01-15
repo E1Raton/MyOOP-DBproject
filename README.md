@@ -26,6 +26,5 @@ The opened window provides you with three options (buttons): *Program Course*, *
 <br></br>
  * **Instructor**<br></br>
 A view of all the courses will appear. You can filter by checking *Show only future courses*. You can sort the courses by: *Instructor*, *Student*, *Horse*, *Date*, and *Hour*. Besides, you can search a course by the name of the instructor: just press some key characters followed by *Enter*. This is useful if you wish to see only your courses, or only the courses of one of your colleagues.
-<br></br>
 
 Both student/instructor users are provided with a an option (a button) for returning to the *log in window*.
