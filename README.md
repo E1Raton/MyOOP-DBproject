@@ -17,15 +17,13 @@ Upon pressing the *Sign Up* button, a *sign up* form opens, having four fields: 
 This window is reachable from the *log in* window (by clicking on *See Reviews* button). All reviews submitted until now are displayed here in a *TableView*. Additionally, the user has the possibility of sorting the reviews after the name of the horse, a feature which enables you to have a more organised view. You can return to the *log in window* by pressing on *Go Back*.
 ### 4. Logged in user
 Depending on your account (student/instructor) the app redirects you to a certain *scene* from where you can perform your specific actions.
- * **Student**
-
+ * **Student**<br></br>
 The opened window provides you with three options (buttons): *Program Course*, *See my courses*, *Review*:
  * *Program Course* opens a form where you have to set the details for the horse riding course: select a category, an instructor, a horse, a date, and a starting hour. Be aware of some constraints: you cannot leave an empty field, you cannot choose a past date, you cannot pick a horse which is already picked at in that date, at that hour. Violating any of these will result in some corresponding error messages.
  * *See my courses* redirects you to a *scene* where your courses can be displayed. Just press on *Activated courses* to see the past courses, and on *Future courses* to see the future courses. You can cancel a future course by selecting the course and pressing the *Cancel* button from below. A pop-up window will appear, asking if you are sure you want to perform this action. You can either click *OK* - so the action will be done, or *Cancel* - to prevent the deleting of the course. This option is available only for the future courses, don't try to cancel courses from a past date - you'll waste your time.
  * Press *Review* if you want to leave us a review for one of the horses. Please take into account that you can review a horse only once. In case you try to review the same horse a second time, an error message will occur. Don't try to submit an empty review, or a review without a grade assigned. Error messages will appear in these cases too, and you won't be able to submit the review.
 <br></br>
 <br></br>
- * **Instructor**
-
+ * **Instructor**<br></br>
 A view of all the courses will appear. You can filter by checking *Show only future courses*. You can sort the courses by: *Instructor*, *Student*, *Horse*, *Date*, and *Hour*. Besides, you can search a course by the name of the instructor: just press some key characters followed by *Enter*. This is useful if you wish to see only your courses, or only the courses of one of your colleagues.
  
