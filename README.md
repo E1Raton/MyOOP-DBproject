@@ -12,4 +12,4 @@ An app which allows you to perform the following actions:
 
 ## User manual
 ### 1. Log in Window
-This is the first window that appears when running the application. It provides a "welcome" message, two annotated fields for typing the credentials (e-mail address and password), the "Log In" button, the "Sign Up" button and the "See Reviews" button. Trying to log in with wrong credentials (i.e. that can't be found in the database will result in an <span style="color:red"> error message </span>, saying "Invalid e-mail or password". 
+This is the first window that appears when running the application. It provides a "welcome" message, two annotated fields for typing the credentials (e-mail address and password), the "Log In" button, the "Sign Up" button and the "See Reviews" button. Trying to log in with wrong credentials (i.e. that can't be found in the database will result in an \textcolor{red}{error message}, saying "Invalid e-mail or password". 
