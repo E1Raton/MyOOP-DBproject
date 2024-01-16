@@ -30,7 +30,7 @@ The opened window provides you with three options (buttons): *Program Course*, *
  * Press *Review* if you want to leave us a review for one of the horses. Please take into account that you can review a horse only once. In case you try to review the same horse a second time, an error message will occur. Don't try to submit an empty review, or a review without a grade assigned. Error messages will appear in these cases too, and you won't be able to submit the review.
 ![reviewview](reviewview.png)
 
- * **Instructor**<br></br>
+ * **Instructor**
 A view of all the courses will appear. You can filter by checking *Show only future courses*. You can sort the courses by: *Instructor*, *Student*, *Horse*, *Date*, and *Hour*. Besides, you can search a course by the name of the instructor: just press some key characters followed by *Enter*. This is useful if you wish to see only your courses, or only the courses of one of your colleagues.
 
 Both student/instructor users are provided with a an option (a button) for returning to the *log in window*.
