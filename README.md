@@ -14,7 +14,7 @@ This is the first window that appears when running the application. It provides 
 ![loginview](loginview.png)
 ### 2. Sign up 
 Upon pressing the *Sign Up* button, a *sign up* form opens, having four fields: *First Name*, *Last Name*, *e-mail*, *password* and 2 choice boxes: *Student* and *Instructor* (you can select only one). If you press *Sign In* before completing all these fields or before making a choice between student and instructor, a corresponding error message occurs. This also goes for typing an already registered e-mail address. In case of a successful sign in, the user goes automatically back to the *log in window*. At any time, the user can abandon the *sign up process* by clicking on *Go Back*.
-![signupview](signup.png)
+![signupview](signupview.png)
 ### 3. Reviews Display
 This window is reachable from the *log in* window (by clicking on *See Reviews* button). All reviews submitted until now are displayed here in a *TableView*. Additionally, the user has the possibility of sorting the reviews after the name of the horse, a feature which enables you to have a more organised view. You can return to the *log in window* by pressing on *Go Back*.
 ### 4. Logged in user
