@@ -20,7 +20,7 @@ This window is reachable from the *log in* window (by clicking on *See Reviews* 
 ![seereviewsview](seereviewsview.png)
 ### 4. Logged in user
 Depending on your account (student/instructor) the app redirects you to a certain *scene* from where you can perform your specific actions.
-![loggedinuserview](loggedinuser.png)
+![loggedinuserview](loggedinuserview.png)
  * **Student**<br></br>
 The opened window provides you with three options (buttons): *Program Course*, *See my courses*, *Review*:
  * *Program Course* opens a form where you have to set the details for the horse riding course: select a category, an instructor, a horse, a date, and a starting hour. Be aware of some constraints: you cannot leave an empty field, you cannot choose a past date, you cannot pick a horse which is already picked at in that date, at that hour. Violating any of these will result in some corresponding error messages.
