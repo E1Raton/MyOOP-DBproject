@@ -28,6 +28,7 @@ The opened window provides you with three options (buttons): *Program Course*, *
  * *See my courses* redirects you to a *scene* where your courses can be displayed. Just press on *Activated courses* to see the past courses, and on *Future courses* to see the future courses. You can cancel a future course by selecting the course and pressing the *Cancel* button from below. A pop-up window will appear, asking if you are sure you want to perform this action. You can either click *OK* - so the action will be done, or *Cancel* - to prevent the deleting of the course. This option is available only for the future courses, don't try to cancel courses from a past date - the app won't permit it.
 ![seemycourses](seemycourses.png)
  * Press *Review* if you want to leave us a review for one of the horses. Please take into account that you can review a horse only once. In case you try to review the same horse a second time, an error message will occur. Don't try to submit an empty review, or a review without a grade assigned. Error messages will appear in these cases too, and you won't be able to submit the review.
+![reviewview](reviewview.png)
 <br></br>
 <br></br>
  * **Instructor**<br></br>
