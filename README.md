@@ -17,7 +17,7 @@ Upon pressing the *Sign Up* button, a *sign up* form opens, having four fields: 
 ![signupview](signupview.png)
 ### 3. Reviews Display
 This window is reachable from the *log in* window (by clicking on *See Reviews* button). All reviews submitted until now are displayed here in a *TableView*. Additionally, the user has the possibility of sorting the reviews after the name of the horse, a feature which enables you to have a more organised view. You can return to the *log in window* by pressing on *Go Back*.
-![seereviewsview](seereviewsview.jpg)
+![seereviewsview](seereviewsview.png)
 ### 4. Logged in user
 Depending on your account (student/instructor) the app redirects you to a certain *scene* from where you can perform your specific actions.
  * **Student**<br></br>
